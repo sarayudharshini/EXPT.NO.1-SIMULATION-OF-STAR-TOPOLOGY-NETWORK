@@ -1,4 +1,4 @@
-# SIMULATION OF STAR TOPOLOGY NETWORK
+# EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
